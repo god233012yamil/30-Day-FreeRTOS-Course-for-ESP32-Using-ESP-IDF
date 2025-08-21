@@ -2,6 +2,10 @@
 
 A complete 30-day hands-on course to master FreeRTOS on ESP32 with ESP-IDF. Learn task creation, synchronization, multicore design, debugging, and build real-world IoT projects. Perfect for embedded developers ready to level up with real-time systems.
 
+[FreeRTOS-2.bmp](https://github.com/user-attachments/files/21908583/FreeRTOS-2.bmp)
+
+<img width="831" height="548" alt="Image" src="https://github.com/user-attachments/assets/b4dcc4af-7bea-4a8c-8cd6-acac26e79b1a" />
+
 ---
 
 ## 📑 Table of Contents
